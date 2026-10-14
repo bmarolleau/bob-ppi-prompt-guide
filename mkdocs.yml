@@ -1,0 +1,10 @@
+site_name: Getting Started with IBM Bob and the Premium Package for i
+site_description: A hands-on guide for IBM i developers, green-screen programmers and administrators.
+repo_url: https://github.com/bmarolleau/bob-ppi-prompt-guide
+docs_dir: content
+site_dir: site
+theme:
+  name: material
+  language: en
+plugins: []
+use_directory_urls: true
